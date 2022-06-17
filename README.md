@@ -5,7 +5,7 @@ Feature #10
 -
 ---
 ## Live Demo
-[Diabetes Detection](https://reliance-fyp.github.io/Lymphoma-Diagnosis-Hub/)
+[Lymphoma Diagnosis Hub](https://reliance-fyp.github.io/Lymphoma-Diagnosis-Hub/)
 ---
 
 ## Underlying Biology

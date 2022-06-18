@@ -46,4 +46,10 @@ just lymphoma) is a cancer that starts in white blood cells called lymphocytes, 
 part of the body's immune system. NHL is a term that's used for many different types of
  lymphoma that all share some of the same characteristics.
 
+
+## App Working Video 
+https://github.com/Healthcare-360/Lymphoma-Diagnosis-Hub/blob/main/Lymphoma%20AI.mp4
+
+## Dataset Elaboration
+https://github.com/Healthcare-360/Lymphoma-Diagnosis-Hub/blob/main/Dataset%20Elaboration.mp4
  

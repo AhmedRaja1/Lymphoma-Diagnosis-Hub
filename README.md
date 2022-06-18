@@ -23,7 +23,7 @@ Feature #10
 ### Dataset
 [Dataset Kaggle](https://www.kaggle.com/andrewmvd/malignant-lymphoma-classification/version/1)
 
-## Some Content for types of Lymphoma
+## Some Content for types of Lymphoma (Fatima you can consult)
 Follicular lymphoma (FL) is derived from white blood cells that grow in an
  uncontrolled, slow manner. Therefore, FL is considered an indolent disease 
 that may require treatment. FL is the most common slow-growing non-Hodgkin's lymphoma.
